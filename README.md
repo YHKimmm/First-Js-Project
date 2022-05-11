@@ -1,1 +1,1 @@
-https://chromeapp.netlify.app/
+https://chromeapp.netlify.app
