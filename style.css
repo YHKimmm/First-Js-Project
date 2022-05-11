@@ -38,6 +38,11 @@ input {
     font-weight:bold;
 }
 
+li {
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
 .style-clock{
     font-size: 4.8em;
     font-weight: 600;
