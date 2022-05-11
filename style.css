@@ -74,3 +74,7 @@ ul {
     display:flex;
     justify-content: flex-end;
 }
+
+span{
+    margin-right: 10px;
+}
